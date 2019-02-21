@@ -1,0 +1,40 @@
+
+
+/* Fonds site */
+
+h1, h2 {
+ border-bottom:2px solid black;
+ }
+body{
+  background-color: #BDBDBD;
+
+}
+
+/* Police */
+
+* {font-family: "Playfair Display";}
+
+/* Alignement formulaire*/
+
+label {
+  width: 110px;
+  display: inline-block;
+  
+}
+
+textarea {
+  height: 100px;
+}
+ 
+select {
+  width: 254px;
+}
+ 
+input[type=checkbox] {
+  width: 10px;
+}
+ 
+input[type=submit] {
+  width: 150px;
+  padding: 10px;
+}

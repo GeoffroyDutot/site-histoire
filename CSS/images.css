@@ -1,0 +1,132 @@
+
+
+/*image galery */
+
+ .galery_verdun {
+width: 250px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+
+}
+
+
+ .galery_avion {
+width: 300px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_nagasaki {
+width: 260px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_solution {
+width: 300px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_allemand {
+width: 	250px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_debarquement {
+width: 300px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_montagne {
+width: 260px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_tank {
+width: 300px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_blesse {
+width: 250px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_armee {
+width: 300px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_capture {
+width: 260px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+ .galery_sov {
+width: 300px;
+height: 280px
+padding:20px;
+margin-right: 10px;
+margin-left: 20px
+}
+
+
+/* image article */
+
+.image_article{
+width: 400px;
+height: 700px
+padding:25px;
+float: left;
+margin-right: 10px
+}
+
+/* image actualités */
+
+.image_actu{
+width: 275px;
+height: 275px
+padding:275px;
+float: left;
+margin-right: 10px;
+}
